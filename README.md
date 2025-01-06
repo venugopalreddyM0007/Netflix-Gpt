@@ -1,3 +1,11 @@
+![foodorderingapp-home](https://github.com/user-attachments/assets/83b15413-6682-4474-8d77-401bc8ab6a03)
+![list](https://github.com/user-attachments/assets/de50d31d-47ff-4732-9051-926916bcec8c)
+![listofitem](https://github.com/user-attachments/assets/de4e038f-e99c-4bf1-9c14-fe5bf5f7fadc)
+
+
+
+
+
 # Netflix GPT
 
     - Create React App
